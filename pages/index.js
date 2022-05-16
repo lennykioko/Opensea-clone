@@ -67,6 +67,7 @@ function Home() {
           <div className={style.details}>
             You need Chrome to be
             <br /> able to run this app.
+            <br /> Connect to the Rinkeby Test Network
           </div>
         </div>
       )}
